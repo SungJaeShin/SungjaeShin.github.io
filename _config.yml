@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "공부 및 연구한 내용들을 정리한 곳입니다."
+title                    : "Without conscious and deliberate effort, inertia always win."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sungjae Shin"
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "pootti8@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
