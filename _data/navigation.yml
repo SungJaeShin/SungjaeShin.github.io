@@ -17,3 +17,5 @@ study:
     url: /study/A
   - title: B
     url: /study/B
+  sidebar:
+    nav: "study"
