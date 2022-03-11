@@ -180,7 +180,11 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /about # about me
+  - /study 
+  - /experiemet
+  - /paper
+  - /my_paper
+  - /about 
   
 keep_files:
   - .git
