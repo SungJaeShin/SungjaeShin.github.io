@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Without conscious and deliberate effort, inertia always win."
+title                    : "Research Repository"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sungjae Shin"
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/SungJaeShin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
