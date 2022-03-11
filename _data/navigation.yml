@@ -12,7 +12,7 @@ main:
     url: /about/
 
 # study links
-docs:
+study:
   - title: A
     url: /study/A
   - title: B
