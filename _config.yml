@@ -294,7 +294,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "/about/"
       type: pages
     values:
       layout: single

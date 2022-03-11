@@ -11,6 +11,11 @@ main:
   - title: "About Me"
     url: /about/
 
+# Experiment: Post
+# Paper: Post
+# Studies: Collection
+# About: Page
+
 # study links
 docs:
   - title: A
@@ -18,4 +23,4 @@ docs:
   - title: B
     url: /study/B
   sidebar:
-    nav: "study"
+    nav: "/study"
