@@ -10,3 +10,10 @@ main:
     url: /my_paper/
   - title: "About Me"
     url: /about/
+
+# study links
+docs:
+  - title: A
+    url: /study/A
+  - title: B
+    url: /study/B
