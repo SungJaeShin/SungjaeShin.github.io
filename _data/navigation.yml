@@ -1,0 +1,27 @@
+# main links
+main:
+  - title: "Studies"
+    url: /study/
+  - title: "Experiments"
+    url: /experiemet/
+  - title: "Paper Survey"
+    url: /paper/
+  - title: "My Paper"
+    url: /my_paper/
+  - title: "About Me"
+    url: /about/about.md
+
+# Experiment: Post
+# Paper: Post
+# Studies: Collection
+# About: Page
+
+# study links
+docs:
+  - title: Action Tutorial
+    url: /study/A
+  - title: "About Me"
+    url: /about/about
+  sidebar:
+    nav: "/study"
+
