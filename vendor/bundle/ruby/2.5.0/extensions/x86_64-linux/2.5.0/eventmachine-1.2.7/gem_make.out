@@ -1,0 +1,5 @@
+current directory: /home/sj/workspace/private_ws/SungjaeShin.github.io/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/ext
+/usr/bin/ruby2.5 -r ./siteconf20240115-7609-13q5hxi.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
