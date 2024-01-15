@@ -17,11 +17,9 @@ main:
 # About: Page
 
 # study links
-# docs:
-#   title: Action Tutorial
-#     url: /study/A
-#   title: "About Me"
-#     url: /about/about
-#   sidebar:
-#     nav: "/study"
-
+docs:
+  - title: About Me
+    children:
+      - title: "About Me"
+      url: /about/about/
+      
