@@ -15,3 +15,8 @@ main:
 # Paper: Post
 # Studies: Collection
 # About: Page
+
+docs:
+  - title: About Me
+    url: /about/about/
+    
