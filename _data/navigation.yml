@@ -20,6 +20,6 @@ main:
 docs:
   - title: About Me
     children:
-      - title: "About Me"
+    - title: "About Me"
       url: /about/about/
       
