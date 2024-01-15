@@ -9,7 +9,7 @@ main:
   - title: "My Paper"
     url: /my_paper/
   - title: "About Me"
-    url: /about/about.md
+    url: main/about/about.md
 
 # Experiment: Post
 # Paper: Post
