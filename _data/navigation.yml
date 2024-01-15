@@ -18,9 +18,9 @@ main:
 
 # study links
 docs:
-  - title: Action Tutorial
+  title: Action Tutorial
     url: /study/A
-  - title: "About Me"
+  title: "About Me"
     url: /about/about
   sidebar:
     nav: "/study"
