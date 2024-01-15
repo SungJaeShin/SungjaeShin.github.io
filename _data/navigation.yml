@@ -9,7 +9,7 @@ main:
   - title: "My Paper"
     url: /my_paper/
   - title: "About Me"
-    url: https://SungjaeShin.github.io/about_me/
+    url: /about_me/
 
 # Experiment: Post
 # Paper: Post
