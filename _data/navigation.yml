@@ -9,7 +9,7 @@ main:
   - title: "My Paper"
     url: /my_paper/
   - title: "About Me"
-    url: /docs/about/
+    url: https://sungjaeshin.github.io/about/
 
 # Experiment: Post
 # Paper: Post
@@ -17,9 +17,6 @@ main:
 # About: Page
 
 # documentation links
-docs:
-  - title: About Me
-    url: /docs/about/
 
 
   # - title: Customization
