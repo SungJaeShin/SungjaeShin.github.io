@@ -17,7 +17,7 @@ main:
 # About: Page
 
 # study links
-docs:
+about:
   - title: About Me
     children:
     - title: "About Me"
