@@ -1,5 +1,5 @@
 ---
-title: "[Action Tutorial] Basic concept of ROS Action"
+title: "Action Tutorial: Basic concept of ROS Action"
 toc: true
 ---
 
