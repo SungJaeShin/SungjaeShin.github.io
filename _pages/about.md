@@ -1,13 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 last_modified_at: 2021-06-07T08:48:05-04:00
 toc: true
 ---
 
-# About Me
-
-## SungJae Shin
+# SungJae Shin (Last Modified: 2021-06-07)
   - E-mail : pootti8@gamil.com
   - Tel : +82-10-7456-2282
 
