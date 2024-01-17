@@ -1,6 +1,6 @@
 ---
-title: "[Action Tutorial] Basic concept of ROS Action"
 permalink: /docs/action-tutorial/
+title: "[Action Tutorial] Basic concept of ROS Action"
 last_modified_at: 2022-08-01T18:35:05-04:00
 toc: true
 ---
@@ -65,9 +65,10 @@ toc: true
 ---
 
 - **[Action]**
-    <figure>
-    <img src="{{ '/imgs/action_tutorial.png' | relative_url }}">
-    </figure>
+    <figure class="align-center">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/action_tutorial.png" alt="">
+    <figcaption>Look at 580 x 300 getting some love.</figcaption>
+    </figure> 
 
     <!-- ![Untitled](%5BAction%20Tutorial%5D%20Basic%20concept%20of%20Action%2053e29725788e4bff871bb4e6452f2b52/Untitled.png) -->
     
