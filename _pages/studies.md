@@ -1,6 +1,6 @@
 ---
 title: "Studies"
 permalink: /study/
-layout: posts
+layout: tags
 author_profile: true
 ---
