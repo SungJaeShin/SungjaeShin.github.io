@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /SungjaeShin/SungjaeShin/about_me/
+permalink: /docs/about_me/
 last_modified_at: 2021-06-07T08:48:05-04:00
 toc: true
 ---
