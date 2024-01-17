@@ -18,7 +18,11 @@ main:
 # About: Page
 
 # documentation links
-
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/about_me/
 
   # - title: Customization
   #   children:
