@@ -20,7 +20,7 @@ main:
 docs:
   - title: \[A\]
     children:
-      - title: "Action Tutorial"
+      - title: "[Action Tutorial] Basic concept of ROS Action"
         url: /docs/action-tutorial/
 
   # - title: Customization
