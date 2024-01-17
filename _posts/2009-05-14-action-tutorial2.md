@@ -3,8 +3,6 @@ title: "[Action Tutorial] Basic concept of ROS Action2"
 toc: true
 ---
 
-# [Action Tutorial] Basic concept of ROS Action
-
 ## [Goal] ROS에서 사용되는 action에 대해 개념을 알아보기
 
 ---
@@ -65,7 +63,6 @@ toc: true
 - **[Action]**
     <figure class="align-center">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/action_tutorial.png" alt="">
-    <figcaption>Look at 580 x 300 getting some love.</figcaption>
     </figure> 
 
     <!-- ![Untitled](%5BAction%20Tutorial%5D%20Basic%20concept%20of%20Action%2053e29725788e4bff871bb4e6452f2b52/Untitled.png) -->
