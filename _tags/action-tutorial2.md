@@ -1,6 +1,11 @@
 ---
 title: "[Action Tutorial] Basic concept of ROS Action2"
 toc: true
+tags:
+  - content
+  - css
+  - edge case
+  - \[A\]
 ---
 
 ## [Goal] ROS에서 사용되는 action에 대해 개념을 알아보기

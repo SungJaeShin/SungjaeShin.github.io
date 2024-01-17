@@ -2,7 +2,7 @@
 title: "Action Tutorial: Basic concept of ROS Action"
 toc: true
 tags:
-    - \[A\]
+  - \[A\]
 ---
 
 # [Action Tutorial] Basic concept of ROS Action
