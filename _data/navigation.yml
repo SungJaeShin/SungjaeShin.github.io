@@ -11,6 +11,10 @@ main:
   - title: "About Me"
     url: /about_me/
 
+_about:
+  - title: "About Me"
+    url: /about_me/
+
 
 # Experiment: Post
 # Paper: Post
