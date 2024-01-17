@@ -1,6 +1,6 @@
 ---
 title: "[Action Tutorial] Basic concept of ROS Action"
-permalink: /docs/quick-start-guide/
+permalink: /docs/action-tutorial/
 excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 last_modified_at: 2022-08-01T18:35:05-04:00
 toc: true
