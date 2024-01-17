@@ -9,7 +9,8 @@ main:
   - title: "My Paper"
     url: /my_paper/
   - title: "About Me"
-    url: /SungjaeShin/SungjaeShin/about_me/
+    url: /about_me/
+
 
 # Experiment: Post
 # Paper: Post
