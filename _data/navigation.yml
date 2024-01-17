@@ -8,12 +8,12 @@ main:
     url: /paper/
   - title: "My Paper"
     url: /my_paper/
-  - title: "About Me"
-    url: /about_me/
+  - title: "About"
+    url: /about/
 
-_about:
-  - title: "About Me"
-    url: /about_me/
+# _about:
+#   - title: "About Me"
+#     url: /about_me/
 
 
 # Experiment: Post
