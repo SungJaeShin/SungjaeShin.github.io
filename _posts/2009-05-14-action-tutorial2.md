@@ -1,6 +1,6 @@
 ---
 title: "[Action Tutorial] Basic concept of ROS Action"
-toc: true
+classes: wide
 ---
 
 ## [Goal] ROS에서 사용되는 action에 대해 개념을 알아보기
