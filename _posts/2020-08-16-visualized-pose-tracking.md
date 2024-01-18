@@ -21,7 +21,7 @@ classes: wide
   * orientation z = -0.52308786
 
 
-### Node & Topic explanation <br>
+### Node & Topic explanation
 [Node]
 - "pose_movement" Node
 
