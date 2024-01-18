@@ -80,24 +80,35 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 ## 4. Provided Dataset (ROSBAG Data)
 - KAIST-DP Outdoor Dataset (Library): 
     - [E9 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [E9 Building Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
-    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/library_path.png" width = 80% height = 80% div align=center />
+    <figure class="align-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/library_path.png" alt="">
+    </figure>
 
 - KAIST-DP EE-Building:
     - [EE-Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/ErDl1w2n56VOi7I-0XTpV1EB0WMorX6Aa3_CKpHn79b9RQ?e=JNhl6l)
-    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_path.png" width = 80% height = 80% div align=center />
+    <figure class="align-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ee_building_path.png" alt="">
+    </figure>
+
 
 - KAIST-DP Indoor Dataset (EE):
     - [E3 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/Eiawqsudb51KhiSLEA1H3mgBruKdMMPxR3aWvmmdqQVR9w?e=p5tBdC)
-    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/ee_building_indoor_path.png" width = 80% height = 60% div align=center />
+    <figure class="align-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ee_building_indoor_path.png" alt="">
+    </figure>
 
 
 ## 5. Example of sensor data applying LIO-SAM and VINS-Fusion
 - For LiDAR data applied [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM.git)
-    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/lio_sam.png" width = 80% height = 80% div align=center />
+    <figure class="align-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lio_sam.png" alt="">
+    </figure>
 
 
 - For Camera data applied [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git)
-    <img src="https://github.com/SungJaeShin/KAIST-DP/blob/main/results/vins_fusion.png" width = 80% height = 80% div align=center />
+    <figure class="align-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/vins_fusion.png" alt="">
+    </figure>
 
 
 ## 6. Acknowledgements
