@@ -16,12 +16,12 @@ main:
 # Studies: docs
 # About: Page
 
-# # documentation links
-# docs:
-#   - title: \[A\]
-#     children:
-#       - title: "[Action Tutorial] Basic concept of ROS Action"
-#         url: /action-tutorial/
+# documentation links
+docs:
+  - title: A
+    children:
+      - title: "[Action Tutorial] Basic concept of ROS Action"
+        url: /study/action-tutorial/
 
 
 
