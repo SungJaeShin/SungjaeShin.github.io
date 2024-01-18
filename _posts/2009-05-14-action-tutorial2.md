@@ -1,11 +1,10 @@
 ---
-title: "[Action Tutorial] Basic concept of ROS Action2"
+title: "[Action Tutorial] Basic concept of ROS Action"
 toc: true
 ---
 
 ## [Goal] ROS에서 사용되는 action에 대해 개념을 알아보기
 
----
 
 - **[Result Github]**
     
