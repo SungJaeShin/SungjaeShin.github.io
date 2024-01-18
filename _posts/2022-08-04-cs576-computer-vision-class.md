@@ -1,5 +1,5 @@
 ---
-title: "[CS576 Computer Vision Class (2022 Spring)]"
+title: "[CS576 Computer Vision Course (2022 Spring)]"
 classes: wide
 ---
 
