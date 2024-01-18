@@ -8,7 +8,7 @@ classes: wide
 
 ---
 <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HW_configuration.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_dp/HW_configuration.png" alt="">
 </figure>
 ---
 
@@ -81,33 +81,33 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 - KAIST-DP Outdoor Dataset (Library): 
     - [E9 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [E9 Building Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
     <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/library_path.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_dp/library_path.png" alt="">
     </figure>
 
 - KAIST-DP EE-Building:
     - [EE-Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/ErDl1w2n56VOi7I-0XTpV1EB0WMorX6Aa3_CKpHn79b9RQ?e=JNhl6l)
     <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ee_building_path.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_dp/ee_building_path.png" alt="">
     </figure>
 
 
 - KAIST-DP Indoor Dataset (EE):
     - [E3 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/Eiawqsudb51KhiSLEA1H3mgBruKdMMPxR3aWvmmdqQVR9w?e=p5tBdC)
     <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ee_building_indoor_path.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_dp/ee_building_indoor_path.png" alt="">
     </figure>
 
 
 ## 5. Example of sensor data applying LIO-SAM and VINS-Fusion
 - For LiDAR data applied [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM.git)
     <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lio_sam.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_dp/lio_sam.png" alt="">
     </figure>
 
 
 - For Camera data applied [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git)
     <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/vins_fusion.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kaist_dp/vins_fusion.png" alt="">
     </figure>
 
 
@@ -116,4 +116,4 @@ These cameras and IMU are provided URL of KAIST.
 
 Thank you for Byeongho Yu who made zig to get the KAIST-DP dataset.
 
-For commercial inquiries, please contact Sungjae Shin (pootti@kaist.ac.kr)
+For commercial inquiries, please contact **Sungjae Shin (pootti@kaist.ac.kr)**
