@@ -1,11 +1,12 @@
 ---
-title: "[Visualize Pose Tracking]"
+title: "[Visualized Pose Tracking]"
 classes: wide
 ---
 
 ## Github Code 
 <figure class="align-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png" alt="https://github.com/SungJaeShin/pose_movement.git">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png" alt="">
+    <figcaption>https://github.com/SungJaeShin/pose_movement.git</figcaption>
 </figure> 
 
 
