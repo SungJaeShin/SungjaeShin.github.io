@@ -4,11 +4,7 @@ classes: wide
 ---
 
 ## Github Code 
-<!-- <figure class="align-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png" alt="">
-    <figcaption>https://github.com/SungJaeShin/pose_movement.git</figcaption>
-</figure>  -->
-https://github.com/SungJaeShin/SungjaeShin.github.io.git
+
 [!["Github Page"](https://github.com/SungJaeShin/SungjaeShin.github.io/assets/images/github_logo.png)](https://github.com/SungJaeShin/Delaunay_triangulation.git)
 
 ## [Goal] We can generate 2D Delaunary Triangulation method from the Bowyer-Watson code and Ruppert Paper !
@@ -17,7 +13,9 @@ Generate 2D Delaunay Triangulation and Visualization
 
 - EuRoC Dataset Example (Vicon Room)
   
-  <img src="./euroc_vr.png"/>
+  <figure class="align-center">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/euroc_vr.png" alt="">
+  </figure> 
 
 
 - VIODE Dataset Example
