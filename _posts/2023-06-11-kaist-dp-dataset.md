@@ -8,14 +8,16 @@ classes: wide
 
 ---
 <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HW_configuration.png" width = 80% height = 80% alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HW_configuration.png" alt="">
 </figure>
 ---
+
 **Publish Paper** 
 
 If you use KAIST-DP dataset for your academic research, please cite our paper.
 
 - **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023, [DOI:10.23919/ICCAS59377.2023.10316996](https://doi.org/10.23919/ICCAS59377.2023.10316996).
+
 ---
 
 **Description**
