@@ -3,11 +3,8 @@ title: "Action Tutorial: Basic concept of ROS Action"
 toc: true
 ---
 
-# [Action Tutorial] Basic concept of ROS Action
-
 ## [Goal] ROS에서 사용되는 action에 대해 개념을 알아보기
 
----
 
 - **[Result Github]**
     
@@ -65,11 +62,8 @@ toc: true
 - **[Action]**
     <figure class="align-center">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/action_tutorial.png" alt="">
-    <figcaption>Look at 580 x 300 getting some love.</figcaption>
     </figure> 
 
-    <!-- ![Untitled](%5BAction%20Tutorial%5D%20Basic%20concept%20of%20Action%2053e29725788e4bff871bb4e6452f2b52/Untitled.png) -->
-    
     ---
     
     - Action에는 **Client와 Server라는 개념**이 존재하고 각각 노드라고 인식하면 훨신 이해하기 편함

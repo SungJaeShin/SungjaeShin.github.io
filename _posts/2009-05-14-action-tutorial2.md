@@ -64,8 +64,6 @@ toc: true
     <figure class="align-center">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/action_tutorial.png" alt="">
     </figure> 
-
-    <!-- ![Untitled](%5BAction%20Tutorial%5D%20Basic%20concept%20of%20Action%2053e29725788e4bff871bb4e6452f2b52/Untitled.png) -->
     
     ---
     
