@@ -4,12 +4,7 @@ classes: wide
 ---
 
 ## Github Code 
-<!-- <figure class="align-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png" alt="">
-    <figcaption>https://github.com/SungJaeShin/pose_movement.git</figcaption>
-</figure>  -->
-
-[![Github_Page](https://github.com/SungJaeShin/SungjaeShin.github.io/blob/main/assets/images/github_logo.png)](https://github.com/SungJaeShin/h5py_tutorial.git)
+[![Github_Page]({{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png)](https://github.com/SungJaeShin/h5py_tutorial.git)*Click Image!*
 
 # Real-time HDF5 Dataset Generation
 Follow [HDF5 Basic Concept](https://heathered-freon-621.notion.site/HDF5-How-to-use-h5py-for-making-dataset-or-database-DB-in-python-24dc231719f34e96bc1e5d8d24f7bd1f) 

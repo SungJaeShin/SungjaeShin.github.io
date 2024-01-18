@@ -4,8 +4,7 @@ classes: wide
 ---
 
 ## Github Code 
-
-[!["Github Page"](https://github.com/SungJaeShin/SungjaeShin.github.io/assets/images/github_logo.png)](https://github.com/SungJaeShin/Delaunay_triangulation.git)
+[![Github_Page]({{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png)](https://github.com/SungJaeShin/Delaunay_triangulation.git)*Click Image!*
 
 ## [Goal] We can generate 2D Delaunary Triangulation method from the Bowyer-Watson code and Ruppert Paper !
 

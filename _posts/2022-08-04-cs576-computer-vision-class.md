@@ -4,7 +4,7 @@ classes: wide
 ---
 
 ## Github Code 
-[![Github_Page](https://github.com/SungJaeShin/SungjaeShin.github.io/blob/main/assets/images/github_logo.png)](https://github.com/SungJaeShin/CS576-Computer-Vision.git)
+[![Github_Page]({{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png)](https://github.com/SungJaeShin/CS576-Computer-Vision.git)*Click Image!*
 
 
 ### Assignment

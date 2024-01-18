@@ -4,8 +4,7 @@ classes: wide
 ---
 
 ## Github Code 
-
-[![Github_Page]({{ site.url }}{{ site.baseurl }}/assets/images/github_logo2.png)](https://github.com/SungJaeShin/parsingROSBag.git)
+[![Github_Page]({{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png)](https://github.com/SungJaeShin/parsingROSBag.git)*Click Image!*
 
 ### Input Data
 (1) sensor_msgs::CameraInfo
