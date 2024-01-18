@@ -77,7 +77,7 @@ Open two terminals, run multi camera and IMU and get the bag file respectively:
 ```
 (then, bag file save at bag folder !!)
 
-## 4. Provided Dataset (ROSBAG Data)
+## 4. Download Dataset (ROSBAG Data)
 - KAIST-DP Outdoor Dataset (Library): 
     - [E9 Building](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EgFowFsfCnJOrnf8YNZT4_ABsuKom2Fc5WmXYDZKLxbHWw?e=cAQULA) & [E9 Building Tilt](https://kaistackr-my.sharepoint.com/:f:/g/personal/pootti_kaist_ac_kr/EoIrnHe06QNPpVh3wZXYsO8BuT7ao6k5xnyLYq34oiYDGw?e=VCMF23)
     <figure class="align-center">
