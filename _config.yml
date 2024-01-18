@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Sungjae Shin"
-  avatar           : "/assets/images/sungjae.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sungjae.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "For the best future!"
   location         : "South Korea"
   email            :
