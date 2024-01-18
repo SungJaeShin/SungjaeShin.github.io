@@ -16,24 +16,24 @@ classes: wide
     <tr>
       <td>
         <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cand_1_3.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/cand_1_3.png" alt="">
         </figure> 
       </td>
       <td>
         <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cand_1_35.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/cand_1_35.png" alt="">
         </figure> 
       </td>
     </tr>
     <tr>
       <td>
         <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cand_1_3.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/cand_1_3.png" alt="">
         </figure> 
       </td>
       <td>
         <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cand_1_9.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/cand_1_9.png" alt="">
         </figure> 
       </td>
     </tr>
@@ -77,13 +77,13 @@ Clone the repository and build and run simultaneously:
     - Results "cand_1_3" and "cand_1_25" using SIFT + DAISY
     
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/best_after_filter_sift_daisy.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/best_after_filter_sift_daisy.png" alt="">
       </figure> 
   
     - Results "cand_1_25" and "cand_1_3" using SIFT + DAISY
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/best_after_filter_sift_daisy2.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/best_after_filter_sift_daisy2.png" alt="">
       </figure> 
 
 
@@ -105,25 +105,25 @@ Clone the repository and build and run simultaneously:
     - Original Method using [Feature Matching](https://github.com/SungJaeShin/Feature_matching)
       
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/before_filter.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/before_filter.png" alt="">
       </figure> 
 
     - Filtered using optical flow method
       
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/optical_flow_sift.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/optical_flow_sift.png" alt="">
       </figure> 
     
     - Filtered using parallax method
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/after_filter.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter.png" alt="">
       </figure>       
   
     - Failure case using parallax method
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/failure_case.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/failure_case.png" alt="">
       </figure>   
 
   - **[ORB & SURF CASE]** Parallax Results btw "**cand_1_3**" and "**cand_1_35**" 
@@ -144,19 +144,19 @@ Clone the repository and build and run simultaneously:
     - Original Method using [Feature Matching](https://github.com/SungJaeShin/Feature_matching)
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/before_filter_orb.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/before_filter_orb.png" alt="">
       </figure>   
 
     - Filtered using optical flow method
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/optical_flow_orb.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/optical_flow_orb.png" alt="">
       </figure>   
     
     - Filtered using parallax method
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/after_filter_orb.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_orb.png" alt="">
       </figure>   
   
   - **[Solve Failure CASE]** Using DAISY btw "**cand_1_3**" and "**cand_1_35**"
@@ -180,11 +180,11 @@ Clone the repository and build and run simultaneously:
       - [GFTT + SURF CASE] Final Results
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/after_filter_gftt_suft.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_gftt_suft.png" alt="">
       </figure>   
         
       - [GFTT + DAISY CASE] Final Results
 
       <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/after_filter_gftt_daisy.png" alt="">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_gftt_daisy.png" alt="">
       </figure>   

@@ -22,7 +22,7 @@ Assignment 4. Visual Object Tracking using SiamFC
 - Assignment 4: 107 / 110
 
   <figure class="align-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cs576_results.png" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/class/cs576_results.png" alt="">
   </figure> 
 
 ### Feedback
