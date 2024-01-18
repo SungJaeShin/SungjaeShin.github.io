@@ -1,15 +1,10 @@
 ---
-permalink: /docs/action-tutorial/
 title: "[Action Tutorial] Basic concept of ROS Action"
-last_modified_at: 2022-08-01T18:35:05-04:00
-toc: true
+classes: wide
 ---
-
-# [Action Tutorial] Basic concept of ROS Action
 
 ## [Goal] ROS에서 사용되는 action에 대해 개념을 알아보기
 
----
 
 - **[Result Github]**
     
