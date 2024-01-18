@@ -179,12 +179,12 @@ Clone the repository and build and run simultaneously:
       ```
       - [GFTT + SURF CASE] Final Results
 
-      <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_gftt_suft.png" alt="">
-      </figure>   
+        <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_gftt_suft.png" alt="">
+        </figure>   
         
       - [GFTT + DAISY CASE] Final Results
 
-      <figure class="align-center">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_gftt_daisy.png" alt="">
-      </figure>   
+        <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/parallax/after_filter_gftt_daisy.png" alt="">
+        </figure>   
