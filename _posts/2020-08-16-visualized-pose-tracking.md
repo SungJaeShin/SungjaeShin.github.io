@@ -4,12 +4,8 @@ classes: wide
 ---
 
 ## Github Code 
-<!-- <figure class="align-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png" alt="">
-    <figcaption>https://github.com/SungJaeShin/pose_movement.git</figcaption>
-</figure>  -->
-https://github.com/SungJaeShin/SungjaeShin.github.io.git
-[!["Github Page"](https://github.com/SungJaeShin/SungjaeShin.github.io/assets/images/github_logo.png)](https://github.com/SungJaeShin/pose_movement.git)
+
+[![Github_Page](https://github.com/SungJaeShin/SungjaeShin.github.io/assets/images/github_logo.png)](https://github.com/SungJaeShin/pose_movement.git)
 
 ## pose의 정보가 담겨있는 .csv file을 이용하여 rviz상으로 움직임 파악하기
 ### csv file
