@@ -1,5 +1,6 @@
 ---
 title: "[Action Tutorial] Basic concept of ROS Action"
+permalink: /action-tutorial/
 classes: wide
 ---
 
