@@ -17,11 +17,12 @@ main:
 # About: Page
 
 # documentation links
-study:
+sidebar:
+  nav: "docs"
   - title: A
     children:
-      - title: "[Action Tutorial] Basic concept of ROS Action"
-        url: /action-tutorial/
+    - title: "[Action Tutorial] Basic concept of ROS Action"
+      url: /action-tutorial/
 
 
 
