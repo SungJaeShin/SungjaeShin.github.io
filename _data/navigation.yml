@@ -18,7 +18,6 @@ main:
 
 # documentation links
 sidebar:
-  nav: "docs"
   - title: A
     children:
     - title: "[Action Tutorial] Basic concept of ROS Action"
