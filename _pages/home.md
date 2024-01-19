@@ -1,8 +1,7 @@
 ---
 permalink: /
-layout: home
-title: "SungJae Shin"
-classes: wide
+layout: splash
+
 ---
 
 Hello !

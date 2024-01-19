@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Studies"
-    url: /docs/action-tutorial/
+    url: /collection-archive/
   - title: "Experiments"
     url: /experiemet/
   - title: "Paper Survey"
@@ -15,13 +15,6 @@ main:
 # Paper: Post
 # Studies: docs
 # About: Page
-
-# documentation links
-sidebar:
-  - title: A
-    children:
-    - title: "[Action Tutorial] Basic concept of ROS Action"
-      url: /docs/action-tutorial/
 
 
 

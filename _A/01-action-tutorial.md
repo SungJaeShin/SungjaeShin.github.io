@@ -1,6 +1,6 @@
 ---
 title: "[Action Tutorial] Basic concept of ROS Action"
-permalink: /docs/action-tutorial/
+permalink: /A/action-tutorial/
 last_modified_at: 2022-08-01T18:35:05-04:00
 toc: true
 ---
