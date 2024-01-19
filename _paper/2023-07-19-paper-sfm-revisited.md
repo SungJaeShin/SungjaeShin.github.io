@@ -1,6 +1,5 @@
 ---
 title: "[CVPR 2016] Structure-from-Motion Revisited"
-permalink: /paper/sfm/
 classes: wide
 ---
 
