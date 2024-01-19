@@ -294,21 +294,21 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "" #"/about/"
+      path: "" 
       type: pages
     values:
       layout: single
       author_profile: true
   # _docs
   - scope:
-      path: "" #"/study/"
+      path: "" 
       type: docs
     values:
       layout: single
       read_time: false
       author_profile: false
-      share: false
-      comments: false
+      share: true
+      comments: true
       sidebar:
         nav: "docs"
   # _recipes
