@@ -2,6 +2,9 @@
 main:
   - title: "Studies"
     url: /study/action-tutorial/
+    children:
+    - title: "[Action Tutorial] Basic concept of ROS Action"
+      url: /study/action-tutorial/ 
   - title: "Experiments"
     url: /experiemet/
   - title: "Paper Survey"
