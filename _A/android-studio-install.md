@@ -1,6 +1,6 @@
 ---
 title: "[Android Studio] How to manually install App in Android Device?"
-excerpt: "Manually install App in Android Device."
+excerpt: "Manually install App in Android Device"
 # last_modified_at: 2022-08-01T18:35:05-04:00
 # toc: true
 ---
