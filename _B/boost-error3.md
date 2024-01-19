@@ -1,9 +1,11 @@
 ---
-title: "[Boost Error] CMake Error at /usr/local/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:230 (message): Could NOT find Boost (missing: python) (found version "0.0.0")"
+title: "[Boost Error] CMake Error at /usr/local/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:230 (message): 
+Could NOT find Boost (missing: python) (found version "0.0.0")"
 excerpt: "Boost Error 3"
 # last_modified_at: 2022-08-01T18:35:05-04:00
 # toc: true
 ---
+
 # [Boost Error] CMake Error at /usr/local/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:230 (message): Could NOT find Boost (missing: python) (found version "0.0.0")
 
 ---
@@ -19,7 +21,7 @@ excerpt: "Boost Error 3"
     
     - [cv_bridge: boost-python not found (Noetic, Fedora 32) - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/360283/cv_bridge-boost-python-not-found-noetic-fedora-32/)
     
-    [](https://github.com/ros-perception/vision_opencv/blob/0a908b0bcf33a4374b26b8572860ff48da19f74a/cv_bridge/CMakeLists.txt)
+    - [cv_bridge github - CMakeList.txt](https://github.com/ros-perception/vision_opencv/blob/0a908b0bcf33a4374b26b8572860ff48da19f74a/cv_bridge/CMakeLists.txt)
     
 
 ---
