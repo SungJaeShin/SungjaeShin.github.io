@@ -38,7 +38,7 @@ title: "[Action Tutorial] Basic concept of ROS Action"
     
     - Donguk Seo Github
         
-        [GitHub - SeoDU/RRT](https://github.com/SeoDU/RRT.git)
+        - [GitHub - SeoDU/RRT](https://github.com/SeoDU/RRT.git)
         
 
 ---
@@ -91,7 +91,7 @@ title: "[Action Tutorial] Basic concept of ROS Action"
     - 단순히 subscribe만 진행하여 panorama image로 stitching 해서 결과를 보여주던 코드를 기반하여 action으로 변경
         - **(Reference Code)**
             
-            [GitHub - SungJaeShin/Stitching_Image](https://github.com/SungJaeShin/Stitching_Image.git)
+            - [GitHub - SungJaeShin/Stitching_Image](https://github.com/SungJaeShin/Stitching_Image.git)
             
     
     ---
@@ -324,6 +324,7 @@ title: "[Action Tutorial] Basic concept of ROS Action"
     
     - ros::init 보다 먼저 ros action 관련 client 또는 server 노드를 먼저 실행시키면 안되고 **항상 먼저 ros::init 뒤에 정의를 해두어야함**
         - (해당 error 내용) **[Fatal]**: You must call ros::init() before creating the first NodeHandle
-            - [Reference Site] [https://answers.ros.org/question/100656/problem-with-nodehandle-before-rosinit/](https://answers.ros.org/question/100656/problem-with-nodehandle-before-rosinit/)
+            - [Reference Site] 
+                - [https://answers.ros.org/question/100656/problem-with-nodehandle-before-rosinit/](https://answers.ros.org/question/100656/problem-with-nodehandle-before-rosinit/)
                 
-                [Problem with nodehandle before ros::init - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/100656/problem-with-nodehandle-before-rosinit/)
+                - [Problem with nodehandle before ros::init - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/100656/problem-with-nodehandle-before-rosinit/)
