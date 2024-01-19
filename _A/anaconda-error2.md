@@ -159,6 +159,6 @@ excerpt: "Anaconda Error 2"
 
 - **[Reference Site]**
     
-    - [Solved "GLIBC_2.29 not found" error on Ubuntu Linux | CyberITHub](https://www.cyberithub.com/solved-glibc-2-29-not-found-error-on-ubuntu-linux/)
+    - [Solved "GLIBC_2.29 not found" error on Ubuntu Linux \| CyberITHub](https://www.cyberithub.com/solved-glibc-2-29-not-found-error-on-ubuntu-linux/)
     
     - [【请谨慎操作】Ubuntu18.04升级GLIBC_2.29，解决ImportError: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.29‘-CSDN博客](https://blog.csdn.net/m0_37201243/article/details/123641552)
