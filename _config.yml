@@ -309,8 +309,8 @@ defaults:
       author_profile: false
       share: true
       comments: true
-      sidebar:
-        nav: "docs"
+      # sidebar:
+      #   nav: "docs"
   # _paper
   - scope:
       path: ""
