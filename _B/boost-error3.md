@@ -1,6 +1,5 @@
 ---
-title: "[Boost Error] CMake Error at /usr/local/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
-Could NOT find Boost (missing: python) (found version "0.0.0")"
+title: "[Boost Error] CMake Error at /usr/local/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake:230 (message): Could NOT find Boost (missing: python) (found version "0.0.0")"
 excerpt: "Boost Error 3"
 # last_modified_at: 2022-08-01T18:35:05-04:00
 # toc: true

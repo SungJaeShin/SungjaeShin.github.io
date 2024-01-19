@@ -59,9 +59,9 @@ excerpt: "Catkin Tips"
             ```
             
         - Example of Action Tutorial
+            - Code : [GitHub - SungJaeShin/Action_tutorial](https://github.com/SungJaeShin/Action_tutorial.git)
+
             - 위치: **/${workspace}/devel/.private/Action_tutorial/lib/Action_tutorial**
-            
-            - [GitHub - SungJaeShin/Action_tutorial](https://github.com/SungJaeShin/Action_tutorial.git)
             
             ```bash
             # In following workspace: ~/devel/.private/Action_tutorial/lib/Action_tutorial
