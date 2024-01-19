@@ -1,7 +1,7 @@
 ---
 title: "[Action Tutorial] Basic concept of ROS Action"
-last_modified_at: 2022-08-01T18:35:05-04:00
-toc: true
+# last_modified_at: 2022-08-01T18:35:05-04:00
+# toc: true
 ---
 
 # [Action Tutorial] Basic concept of ROS Action
@@ -20,18 +20,18 @@ toc: true
 - **[Reference Site]**
     - Action Summary
         
-        [Wiki](http://wiki.ros.org/actionlib#CA-01a90787f036b7f609402261d9a26d106ea379bb_1)
+        - [ROS Wiki](http://wiki.ros.org/actionlib#CA-01a90787f036b7f609402261d9a26d106ea379bb_1)
         
-        [10. action, action server, action client 설명](https://swimminglab.tistory.com/100)
+        - [action, action server, action client 설명](https://swimminglab.tistory.com/100)
         
     
     ---
     
     - Action Class
         
-        [Wiki](http://wiki.ros.org/actionlib_tutorials/Tutorials/Writing%20a%20Callback%20Based%20Simple%20Action%20Client)
+        - [ROS Client Wiki](http://wiki.ros.org/actionlib_tutorials/Tutorials/Writing%20a%20Callback%20Based%20Simple%20Action%20Client)
         
-        [Wiki](http://wiki.ros.org/actionlib_tutorials/Tutorials/SimpleActionServer%28ExecuteCallbackMethod%29)
+        - [ROS Server Wiki](http://wiki.ros.org/actionlib_tutorials/Tutorials/SimpleActionServer%28ExecuteCallbackMethod%29)
         
     
     ---
