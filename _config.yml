@@ -311,10 +311,10 @@ defaults:
       comments: true
       sidebar:
         nav: "docs"
-  # _recipes
+  # _paper
   - scope:
       path: ""
-      type: recipes
+      type: paper
     values:
       layout: single
       author_profile: true
