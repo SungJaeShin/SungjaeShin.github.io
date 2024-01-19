@@ -1,5 +1,5 @@
 ---
-title: "[Boost] How to install Boost package or change Boost version using zip file in local?"
+title: "[Boost Install] How to install Boost package or change Boost version using zip file in local?"
 excerpt: "Install specific Boost version"
 # last_modified_at: 2022-08-01T18:35:05-04:00
 # toc: true
