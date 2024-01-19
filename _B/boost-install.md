@@ -23,7 +23,7 @@ excerpt: "Install specific Boost version"
 - **[Process]**
     - [Step 1] Download Boost package
         
-        [Version 1.65.1](https://www.boost.org/users/history/version_1_65_1.html)
+        - [Version 1.65.1](https://www.boost.org/users/history/version_1_65_1.html)
         
     - [Step 2] Unzip package and install Boost
         
