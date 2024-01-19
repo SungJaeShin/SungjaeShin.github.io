@@ -283,15 +283,15 @@ collections:
   A:
     output: true
     permalink: /:collection/:path/
-  # paper:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # pets:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+  B:
+    output: true
+    permalink: /:collection/:path/
+  C:
+    output: true
+    permalink: /:collection/:path/
+  D:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
