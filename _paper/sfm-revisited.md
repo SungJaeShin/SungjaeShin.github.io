@@ -2,6 +2,7 @@
 title: "[CVPR 2016] Structure-from-Motion Revisited"
 classes: wide
 ---
+2023-07-19
 
 ## Author: J. L. Schönberger and J. -M. Frahm
 
