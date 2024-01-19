@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Studies"
-    url: /docs/
+    url: /docs/action-tutorial/
   - title: "Experiments"
     url: /experiemet/
   - title: "Paper Survey"
