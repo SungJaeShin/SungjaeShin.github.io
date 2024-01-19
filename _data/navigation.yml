@@ -17,7 +17,7 @@ main:
 # About: Page
 
 # documentation links
-docs:
+sidebar:
   - title: A
     children:
     - title: "[Action Tutorial] Basic concept of ROS Action"
