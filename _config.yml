@@ -322,6 +322,19 @@ collections:
   N:
     output: true
     permalink: /:collection/:path/
+  O:
+    output: true
+    permalink: /:collection/:path/
+  P:
+    output: true
+    permalink: /:collection/:path/
+  Q:
+    output: true
+    permalink: /:collection/:path/
+  R:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
