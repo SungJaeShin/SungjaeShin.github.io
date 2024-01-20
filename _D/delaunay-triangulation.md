@@ -203,12 +203,6 @@ classes: wide
             <figure class="align-center">
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/delaunay/Untitled.gif" alt="">
             </figure> 
-            
-			<figure>
-				<img src="{{'/assets/images/blog/delaunay/Untitled.gif'}}" alt="">
-			</figure>
-
-			![results]("{{ site.url }}{{ site.baseurl }}/assets/images/blog/delaunay/Untitled.gif")
 
             - **[문제] 보면 silver triangle이 생성되는 것이 보임**
                 
