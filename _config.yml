@@ -298,6 +298,18 @@ collections:
   F:
     output: true
     permalink: /:collection/:path/
+  G:
+    output: true
+    permalink: /:collection/:path/
+  H:
+    output: true
+    permalink: /:collection/:path/
+  I:
+    output: true
+    permalink: /:collection/:path/
+  J:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
