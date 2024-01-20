@@ -13,7 +13,7 @@ excerpt: "Feature Matching: RoMa"
 
 - **[Github page]**
     
-    [GitHub - Parskatt/RoMa: [Arxiv 2023] RoMa: Revisiting Robust Losses for Dense Feature Matching](https://github.com/Parskatt/RoMa)
+    - [GitHub - Parskatt/RoMa: [Arxiv 2023] RoMa: Revisiting Robust Losses for Dense Feature Matching](https://github.com/Parskatt/RoMa)
     
 
 ---
@@ -353,33 +353,66 @@ excerpt: "Feature Matching: RoMa"
 - **[Experiments]**
     - View point가 다른 challenging 한 이미지 pair 3쌍을 준비
         - Test Pair 1
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled.png" alt="Query Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 1.png" alt="Candidate Image">
-            </figure> 
-
+            <table>
+            <tr>
+                <td> Query Image </td>
+                <td> Candidate Image </td>
+            </tr> 
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 1.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
+           
             
         - Test Pair 2 (Challenging !)
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 2.png" alt="Query Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 3.png" alt="Candidate Image">
-            </figure> 
+            <table>
+            <tr>
+                <td> Query Image </td>
+                <td> Candidate Image </td>
+            </tr> 
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 2.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 3.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
             
 
         - Test Pair 3
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 4.png" alt="Query Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 5.png" alt="Candidate Image">
-            </figure> 
+            <table>
+            <tr>
+                <td> Query Image </td>
+                <td> Candidate Image </td>
+            </tr> 
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 4.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 5.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
                         
 
 ---
@@ -389,23 +422,36 @@ excerpt: "Feature Matching: RoMa"
     - RoMa에서 주어진 **pre-trained model을 적용하여 해당 결과 plot** (본 데이터셋으로 추가 train 시키지 않음!)
     - Not Change Output Resolution: 기본 이미지 사이즈로 feature matching 진행하는 경우
         - Keypoint Detection
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 6.png" alt="Candidate Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 7.png" alt="Candidate Image">
-            </figure> 
+            <table>
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 6.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 7.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
                         
         - Inlier Keypoint using cv2.findFundamentalMat
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 8.png" alt="Candidate Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 9.png" alt="Candidate Image">
-            </figure> 
-        
+            <table>
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 8.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 9.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
             
         - Feature Matching Result
             - Draw All inliers
@@ -425,22 +471,36 @@ excerpt: "Feature Matching: RoMa"
                 
     - Change Output Resolution: RoMa에서 제공한 output resolution으로 이미지 size를 변경 후 matching 진행하는 경우
         - Keypoint Detection
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 13.png" alt="Candidate Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 14.png" alt="Candidate Image">
-            </figure> 
+            <table>
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 13.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 14.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
             
         - Inlier Keypoint using cv2.findFundamentalMat
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 15.png" alt="Candidate Image">
-            </figure> 
-
-            <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 16.png" alt="Candidate Image">
-            </figure> 
+            <table>
+            <tr>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 15.png" alt="">
+                </figure> 
+            </td>
+            <td>
+                <figure class="align-center">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 16.png" alt="">
+                </figure> 
+            </td>
+            </tr>
+            </table>
                         
         - Feature Matching Result
             - Draw All inliers
