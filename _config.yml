@@ -334,6 +334,13 @@ collections:
   R:
     output: true
     permalink: /:collection/:path/
+  S:
+    output: true
+    permalink: /:collection/:path/
+  T:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
