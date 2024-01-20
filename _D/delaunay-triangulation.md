@@ -208,7 +208,7 @@ classes: wide
   				<img src="{{ '/assets/images/blog/delaunay/Untitled.gif' | relative_url }}" alt="creating a new branch on GitHub">
 			</figure>
 
-			![results]({{ "/assets/images/blog/delaunay/Untitled.gif" | relative_url }})
+			![results]("{{ site.url }}{{ site.baseurl }}/assets/images/blog/delaunay/Untitled.gif")
 
             - **[문제] 보면 silver triangle이 생성되는 것이 보임**
                 
