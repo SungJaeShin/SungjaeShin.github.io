@@ -310,6 +310,18 @@ collections:
   J:
     output: true
     permalink: /:collection/:path/
+  K:
+    output: true
+    permalink: /:collection/:path/
+  L:
+    output: true
+    permalink: /:collection/:path/
+  M:
+    output: true
+    permalink: /:collection/:path/
+  N:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
