@@ -1,6 +1,6 @@
 ---
-title: "[Catkin] Tip for development"
-excerpt: "Catkin Tips"
+title: "[Git] Basic Concept and Information"
+excerpt: "Git Tutorial"
 # last_modified_at: 2022-08-01T18:35:05-04:00
 # toc: true
 ---
