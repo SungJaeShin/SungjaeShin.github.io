@@ -292,7 +292,12 @@ collections:
   D:
     output: true
     permalink: /:collection/:path/
-
+  E:
+    output: true
+    permalink: /:collection/:path/
+  F:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
