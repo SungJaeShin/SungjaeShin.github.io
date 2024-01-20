@@ -35,12 +35,12 @@ excerpt: "Image Stitching: Direct stitch"
         <tr>
         <td>
             <figure class="align-center">
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled.png" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 1.png" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 1.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -56,12 +56,12 @@ excerpt: "Image Stitching: Direct stitch"
         <tr>
         <td>
             <figure class="align-center">
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 2.png" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 2.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 3.png" alt="">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 3.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -76,7 +76,7 @@ excerpt: "Image Stitching: Direct stitch"
         - Homography를 추정하기 전에 image 1과 image 2간의 가장 좋은 feature matching 결과를 얻기 위해서 다음과 같은 방법들을 적용
             - SIFT features + DAISY descriptors + BF matcher + KNN matching
                 <figure class="align-center">
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 4.png" alt="">
+                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 4.png" alt="">
                 </figure>                 
     
     ---
@@ -121,7 +121,7 @@ excerpt: "Image Stitching: Direct stitch"
             
         - Code Results
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 5.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 5.png" alt="">
             </figure> 
                 
     ---
@@ -226,12 +226,12 @@ excerpt: "Image Stitching: Direct stitch"
                 <tr>
                 <td>
                     <figure class="align-center">
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 6.png" alt="">
+                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 6.png" alt="">
                     </figure> 
                 </td>
                 <td>
                     <figure class="align-center">
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 7.png" alt="">
+                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 7.png" alt="">
                     </figure> 
                 </td>
                 </tr>
@@ -239,7 +239,7 @@ excerpt: "Image Stitching: Direct stitch"
                 
                 - 이들 interpolation 을 합친 최종 warp image 2 결과
                     <figure class="align-center">
-                        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 8.png" alt="">
+                        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 8.png" alt="">
                     </figure>                     
     
     ---
@@ -447,12 +447,12 @@ excerpt: "Image Stitching: Direct stitch"
                 <tr>
                 <td>
                     <figure class="align-center">
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 9.png" alt="">
+                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 9.png" alt="">
                     </figure> 
                 </td>
                 <td>
                     <figure class="align-center">
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/stitch_direct/Untitled 10.png" alt="">
+                    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/stitch_direct/Untitled 10.png" alt="">
                     </figure> 
                 </td>
                 </tr>
