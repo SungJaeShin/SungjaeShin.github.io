@@ -204,6 +204,12 @@ classes: wide
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/delaunay/Untitled.gif" alt="">
             </figure> 
             
+			<figure>
+  				<img src="{{ '/assets/images/blog/delaunay/Untitled.gif' | relative_url }}" alt="creating a new branch on GitHub">
+			</figure>
+
+			![results]({{ "/assets/images/blog/delaunay/Untitled.gif" | relative_url }})
+
             - **[문제] 보면 silver triangle이 생성되는 것이 보임**
                 
                 → 그래서 acute 한 각을 setting하는 것이 필요!!; Delaunay Triangulation Refinement 알고리즘 진행!! 
