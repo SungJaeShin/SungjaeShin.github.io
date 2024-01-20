@@ -105,25 +105,33 @@ excerpt: "Run NeRF-SLAM using conda env"
             - 설치 목록
                 
                 (1) numpy
+
                 (2) scipy
+
                 (3) tqdm
+
                 (4) matplotlib
                 
                 (5) open3d
+
                 (6) opencv-python
                 
                 (7) torch-scatter
                 
                 (8) jupyter
+
                 (9) imageio
                 
                 (10) glog
+
                 (11) icecream
                 
                 (12) pandas
+
                 (13) pyrealsense2
                 
                 (14) pybind11
+                
                 (15) gdown
                 
                 - 본 작성자는 추가로 설치했던 anaconda는 (7) & (10) & (11) & (13) & (14) 인데 **pyrealsense2는 conda에서 제공한 package가 없어 pip3 로 설치** 진행
