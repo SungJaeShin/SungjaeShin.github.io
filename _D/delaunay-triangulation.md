@@ -205,7 +205,7 @@ classes: wide
             </figure> 
             
 			<figure>
-  				<img src="{{ '/assets/images/blog/delaunay/Untitled.gif' | relative_url }}" alt="creating a new branch on GitHub">
+				<img src="{{'/assets/images/blog/delaunay/Untitled.gif'}}" alt="">
 			</figure>
 
 			![results]("{{ site.url }}{{ site.baseurl }}/assets/images/blog/delaunay/Untitled.gif")
