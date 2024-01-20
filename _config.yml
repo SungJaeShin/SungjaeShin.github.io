@@ -340,7 +340,12 @@ collections:
   T:
     output: true
     permalink: /:collection/:path/
-
+  U:
+    output: true
+    permalink: /:collection/:path/
+  V:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

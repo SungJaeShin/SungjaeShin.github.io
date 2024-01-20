@@ -12,3 +12,9 @@ assets/images/blog/neuralangelo/Untitled[[:space:]]4.mp4 filter=lfs diff=lfs mer
 assets/images/blog/neuralangelo/Untitled[[:space:]]5.mp4 filter=lfs diff=lfs merge=lfs -text
 assets/images/blog/ros2_qos/Untitled.gif filter=lfs diff=lfs merge=lfs -text
 assets/images/blog/ros2_qos/Untitled[[:space:]]1.gif filter=lfs diff=lfs merge=lfs -text
+assets/images/blog/viz_3d_pc/Untitled[[:space:]]4.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/images/blog/viz_3d_pc/Untitled[[:space:]]5.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/images/blog/viz_3d_pc/Untitled.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/images/blog/viz_3d_pc/Untitled[[:space:]]1.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/images/blog/viz_3d_pc/Untitled[[:space:]]2.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/images/blog/viz_3d_pc/Untitled[[:space:]]3.mp4 filter=lfs diff=lfs merge=lfs -text
