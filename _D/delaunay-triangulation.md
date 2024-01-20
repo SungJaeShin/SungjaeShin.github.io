@@ -201,7 +201,7 @@ classes: wide
         
         - **Results**
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/cuda/Untitled.gif" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/delaunay/Untitled.gif" alt="">
             </figure> 
             
             - **[문제] 보면 silver triangle이 생성되는 것이 보임**
