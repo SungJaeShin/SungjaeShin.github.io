@@ -1,6 +1,6 @@
 ---
 title: "[Image Stitching] How to stitch images using opencv library in c++"
-excerpt: "Image Stitching Tutorial"
+excerpt: "Image Stitching: Tutorial"
 ---
 # [Image Stitching] How to stitch images using opencv library in c++
 
