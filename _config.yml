@@ -282,6 +282,7 @@ compress_html:
 collections:
   A:
     output: true
+    label: posts
     permalink: /:collection/:path/
   B:
     output: true
