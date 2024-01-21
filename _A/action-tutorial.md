@@ -2,7 +2,9 @@
 title: "[Action Tutorial] Basic concept of ROS Action"
 excerpt: "Understand basic concept of ROS Action"
 # last_modified_at: 2022-08-01T18:35:05-04:00
-# toc: true
+redirect_from:
+  - /theme-setup/
+toc: true
 ---
 
 # [Action Tutorial] Basic concept of ROS Action
