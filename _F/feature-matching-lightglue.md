@@ -562,17 +562,17 @@ excerpt: "Feature Matching: LightGlue"
         <tr>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 24.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 24.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 25.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 25.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 26.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 26.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -589,17 +589,17 @@ excerpt: "Feature Matching: LightGlue"
         <tr>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 27.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 27.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 28.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 28.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 29.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 29.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -616,17 +616,17 @@ excerpt: "Feature Matching: LightGlue"
         <tr>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 30.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 30.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 31.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 31.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 32.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 32.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -643,17 +643,17 @@ excerpt: "Feature Matching: LightGlue"
         <tr>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 33.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 33.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 34.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 34.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 35.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 35.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -670,17 +670,17 @@ excerpt: "Feature Matching: LightGlue"
         <tr>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 36.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 36.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 37.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 37.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 38.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 38.png" alt="">
             </figure> 
         </td>
         </tr>
@@ -697,17 +697,17 @@ excerpt: "Feature Matching: LightGlue"
         <tr>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 39.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 39.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 37.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 37.png" alt="">
             </figure> 
         </td>
         <td>
             <figure class="align-center">
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/roma/Untitled 38.png" alt="">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/blog/lightglue/Untitled 38.png" alt="">
             </figure> 
         </td>
         </tr>
