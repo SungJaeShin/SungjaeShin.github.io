@@ -5,7 +5,7 @@ main:
   - title: "Experiments"
     url: /experiemet/
   - title: "Paper Survey"
-    url: /paper/
+    url: /paper/colmap/
   - title: "My Paper"
     url: /my_paper/
   - title: "About Me"
@@ -17,18 +17,9 @@ main:
 # About: Page
 
 
-
-  # - title: Customization
-  #   children:
-  #     - title: "Configuration"
-  #       url: /docs/configuration/
-  #     - title: "Overriding Theme Defaults"
-  #       url: /docs/overriding-theme-defaults/
-  #     - title: "Navigation"
-  #       url: /docs/navigation/
-  #     - title: "UI Text"
-  #       url: /docs/ui-text/
-  #     - title: "Authors"
-  #       url: /docs/authors/
-  #     - title: "Layouts"
-  #       url: /docs/layouts/
+# documentation links
+docs:
+  - title: "[2016]"
+    children:
+      - title: "Colmap"
+        url: /paper/colmap/
