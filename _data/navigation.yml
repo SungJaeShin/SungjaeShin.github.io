@@ -5,7 +5,7 @@ main:
   - title: "Experiments"
     url: /experiemet/
   - title: "Paper Survey"
-    url: /paper/colmap/
+    url: /paper/
   - title: "My Paper"
     url: /my_paper/
   - title: "About Me"
@@ -17,9 +17,9 @@ main:
 # About: Page
 
 
-# documentation links
-paper:
-  - title: [2016]
-    children:
-      - title: "Colmap"
-        url: /paper/colmap/
+# # documentation links
+# paper:
+#   - title: [2016]
+#     children:
+#       - title: "Colmap"
+#         url: /paper/colmap/
