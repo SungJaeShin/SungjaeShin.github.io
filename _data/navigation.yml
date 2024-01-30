@@ -19,7 +19,7 @@ main:
 
 # documentation links
 paper:
-  - title: "[2016]"
+  - title: [2016]
     children:
       - title: "Colmap"
         url: /paper/colmap/
