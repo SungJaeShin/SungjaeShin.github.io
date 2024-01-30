@@ -4,7 +4,7 @@ permalink: /paper/colmap2/
 classes: wide
 redirect_from:
   - /theme-setup/
-toc: true
+toc: false
 ---
 2023-07-19
 
