@@ -20,8 +20,15 @@ toc: true
 <br>
 
 ### [Education]
-* **MS** 　　　　　　　 **Korea Advanced Institute of Science and Technology**　　　　2020.03 ~ Current　<br>
+* **Ph.D** 　　　　　　　 **Korea Advanced Institute of Science and Technology**　　　　2022.03 ~ Current <br>
 　　　　　　　　　Daejeon, Korea, School of Electrical Engineering <br>
+　　　　　　　　　*GPA&nbsp; 4.03/4.3* <br>
+　　　　　　　　　*Advisor : Prof. Hyun Myung*  
+<br>
+
+* **MS** 　　　　　　　 **Korea Advanced Institute of Science and Technology**　　　　2020.03 ~ 2022.02　<br>
+　　　　　　　　　Daejeon, Korea, School of Electrical Engineering <br>
+　　　　　　　　　*GPA&nbsp; 4.00/4.3* <br>
 　　　　　　　　　*Advisor : Prof. Hyun Myung*  
 <br>
 
