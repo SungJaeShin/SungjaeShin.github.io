@@ -8,7 +8,7 @@ toc: true
 
 <!-- # SungJae Shin -->
 ### [Contact]
-  - E-mail : pootti8@gamil.com
+  - E-mail : pootti8@gmail.com
   - Tel : +82-10-7456-2282
 
 <br>
@@ -61,11 +61,21 @@ toc: true
 <br>
 
 ### [Language]
-  * C++, Matlab
+  * C++, Python, Matlab
 
 <br>
 
 ### [Publication]
+- Hyungtae Lim, Seungwon Hwang, **Sungjae Shin**, and Hyun Myung, "Normal Distributions Transform is Enough: Real-time 3D Scan Matching for Pose correction of Mobile Robot Under Large Odometry Uncertainties," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2020, [DOI: 10.23919/ICCAS50221.2020.9268266](https://doi.org/10.23919/ICCAS50221.2020.9268266), **Best Paper Award**.
+
+
+- **Sungjae Shin**, Eungchang Mason Lee, Junho Choi, and H. Myung, "MIR-VIO:Mutual Information Residual-based Visual Inertial Odometry with UWB Fusion for Robust Localization," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2021, [DOI: 10.23919/ICCAS52745.2021.9649888](https://doi.org/10.23919/ICCAS52745.2021.9649888), **Best Poster Award**.
+
+
+- Kwangyik Jung, **Sungjae Shin**, and Hyun Myung, "U-VIO: Tightly Coupled UWB Visual Inertial Odometry for Robust Localization," _in Proc International Conference on Robot Intelligence Technology and Applications (RiTA)_, 2022, [DOI:10.1007/978-3-030-97672-9_24](https://doi.org/10.1007/978-3-030-97672-9_24).
+
+
+- **Sungjae Shin**, Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, and Hyun Myung, "PanoNetVLAD: Visual Loop Closure Detection in Continuous Space Represented With Panoramic View Using Multiple Cameras," _in Proc International Conference on Control, Automation and Systems (ICCAS)_, 2023, [DOI:10.23919/ICCAS59377.2023.10316996](https://doi.org/10.23919/ICCAS59377.2023.10316996).
 
 
 <br>
