@@ -1,6 +1,6 @@
 ---
 title: "[CVPR 2016] Structure-from-Motion Revisited"
-permalink: /paper/colmap
+permalink: /paper/colmap/
 classes: wide
 redirect_from:
   - /theme-setup/
