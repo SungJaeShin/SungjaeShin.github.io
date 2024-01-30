@@ -22,20 +22,20 @@ toc: true
 ### [Education]
 * **Ph.D** 　　　　　　　 **Korea Advanced Institute of Science and Technology**　　　　2022.03 ~ Current <br>
 　　　　　　　　　Daejeon, Korea, School of Electrical Engineering <br>
-　　　　　　　　　*GPA&nbsp; 4.03/4.3* <br>
+　　　　　　　　　*GPA:&nbsp; 4.03/4.3* <br>
 　　　　　　　　　*Advisor : Prof. Hyun Myung*  
 <br>
 
 * **MS** 　　　　　　　 **Korea Advanced Institute of Science and Technology**　　　　2020.03 ~ 2022.02　<br>
 　　　　　　　　　Daejeon, Korea, School of Electrical Engineering <br>
-　　　　　　　　　*GPA&nbsp; 4.00/4.3* <br>
+　　　　　　　　　*GPA:&nbsp; 4.00/4.3* <br>
 　　　　　　　　　*Advisor : Prof. Hyun Myung*  
 <br>
 
 * __BS__  　　　　　　　 &nbsp;**KyungHee University**　　　　　　　　　　　　　　　　　　　2014.02 ~ 2020.02 <br>
 　　　　　　　　　Suwon, Korea, Department of Electronic Engineering <br>
 　　　　　　　　　*Graduate Summa Cum Laude* <br>
-　　　　　　　　　*(First Ranked GPA in the college, GPA&nbsp; 4.192/4.3)* <br>
+　　　　　　　　　*(First Ranked GPA in the college, GPA:&nbsp; 4.192/4.3)* <br>
 
 <br>
 ### [Honors and Awards]
