@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "SungJae Shin"
-last_modified_at: 2021-06-07T08:48:05-04:00
+last_modified_at: 2024-01-21T19:48:05-04:00
 classes: wide
 toc: true
 ---
@@ -39,6 +39,8 @@ toc: true
 
 <br>
 ### [Honors and Awards]
+* 2021.10 　　　　　Best Poster Award : International Conference on Control, Automation and Systems (ICCAS), Korea <br>
+* 2020.10 　　　　　Best Paper Award : International Conference on Control, Automation and Systems (ICCAS), Korea <br>
 * 2020.02 　　　　　University President Award : Graduation with Top rank in the college, *Summa Cum Laude*, KyungHee University, Korea <br>
 * 2017.08 　　　　　Second rank in department of electronic engineering (first semester 2017) <br>
 * 2015.02 　　　　　Second rank in department of electronic engineering (second semester 2014) <br>
