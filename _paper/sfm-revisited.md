@@ -1,5 +1,6 @@
 ---
 title: "[CVPR 2016] Structure-from-Motion Revisited"
+permalink: /paper/
 classes: wide
 ---
 2023-07-19
