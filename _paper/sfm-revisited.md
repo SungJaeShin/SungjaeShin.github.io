@@ -25,7 +25,7 @@ classes: wide
 - **[General Structure-from-Motion Method]**
     
     <figure class="align-center">
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/sfm/pipeline.png" alt="">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/colmap/pipeline.png" alt="">
     </figure>
     
     - Incremental SfM은 iterative한 reconstruction method
@@ -71,7 +71,7 @@ classes: wide
             (3) Similarity transformation matrix를 이용하여 image border 안에 있는 inliers ($N_s$)를 구해 scene graph에 잘못 들어온 이미지들이 없는지 방안 마련
             
             <figure class="align-center">
-              <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/sfm/similarity_map.png" alt="">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/colmap/similarity_map.png" alt="">
             </figure>
             
             - Ref Paper: **Fixing WTFs: Detecting Image Matches caused by Watermarks, Timestamps, and Frames in Internet Photos**
@@ -104,7 +104,7 @@ classes: wide
             (2) 다음과 같은 방법들을 사용
             
             <figure class="align-center">
-              <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/sfm/score_points.png" alt="">
+              <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/colmap/score_points.png" alt="">
             </figure>
             
             1. 2개의 이미지를 grid로 나눔 ($K_l$)
@@ -140,7 +140,7 @@ classes: wide
             3. Estimated 된 3D point를 통해서 sufficient triangulation angle $\alpha$ 를 측정
                 
                 <figure class="align-center">
-                  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/sfm/projection.png" alt="">
+                  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paper/colmap/projection.png" alt="">
                 </figure>
                 
             4. 

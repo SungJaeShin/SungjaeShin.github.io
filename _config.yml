@@ -154,6 +154,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _paper
+  - _my_paper
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -179,12 +181,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /study 
-  - /experiemet
-  - /paper
-  - /my_paper
-  - /about 
 keep_files:
   - .git
   - .svn
