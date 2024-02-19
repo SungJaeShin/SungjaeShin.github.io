@@ -7,10 +7,21 @@ classes: wide
 [![Github_Page]({{ site.url }}{{ site.baseurl }}/assets/images/github_logo.png)](https://github.com/SungJaeShin/Marching_cubes.git)*Click Image!*
 
 ## [Goal] The implementation Marching Cubes using OpenCV in C++ 
-<!-- - Randomly generated grid image \
-  <figure class="align-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_squares/init_img.png" alt="">
-  </figure>  -->
+- Example pointcloud 
+   <table>
+      <tr>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere1.png" alt="">
+         </figure> 
+      </td>
+       <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere2.png" alt="">
+         </figure> 
+      </td>
+      </tr>
+   </table>
 
 ## 1. Prerequisites
 ### 1.1 Dependencies
@@ -40,10 +51,11 @@ Follow [OpenCV](https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.h
 (1) Loopup Table from [http://paulbourke.net/geometry/polygonise/](    http://paulbourke.net/geometry/polygonise/) \
 (2) save_ply.h from [https://github.com/nihaljn/marching-cubes/blob/main/src/utilities.cpp](https://github.com/nihaljn/marching-cubes/blob/main/src/utilities.cpp) \
 (3) Input file format &rarr; `.ply` & `.txt` \
-(4) Output file format &rarr; `.ply` & `.txt` \
-(5) Visualized pointcloud or mesh &rarr; `viz3DMesh()` & `viz3DPoints` in `viz_mesh.h` \
-(6) Visualization python code also provided in `example` folder &rarr; `viz_ply.py` \
-(7) Convert PLY format Binary to ASCII in `example` folder &rarr; `cvt_binary2ascii.py` 
+(4) If you don't have input files, then you can create random grid &rarr; `generate_random_grid()` in `utility.h` \
+(5) Output file format &rarr; `.ply` & `.txt` \
+(6) Visualized pointcloud or mesh &rarr; `viz3DMesh()` & `viz3DPoints()` in `viz_mesh.h` \
+(7) Visualization python code also provided in `example` folder &rarr; `viz_ply.py` \
+(8) Convert PLY format Binary to ASCII in `example` folder &rarr; `cvt_binary2ascii.py` 
 
 ## 4. Build and Run 
 Clone the repository and build and run simultaneously:
@@ -90,57 +102,147 @@ g++ ./src/main.cpp -L /usr/local/include/opencv2 -lopencv_viz -lopencv_highgui -
 
 ## 6. Results 
 - Time consumption
-   - Example PLY: `airplane.ply` (# of pointcloud: 445)
+   - Example PLY: `sphere.txt` (# of pointcloud: 16926)
+      <table>
+         <tr>
+            <td> NUM VOXEL </td>
+            <td> # of triangles </td>
+            <td> Pointcloud read time (ms) </td>
+            <td> Voxel calculation (ms) </td>
+            <td> Marching Cubes (ms) </td>
+         </tr> 
+         <tr>
+            <td> 200 </td>
+            <td> 68096 </td>
+            <td> 9.54439 ms </td>
+            <td> 0.684776 ms </td>
+            <td> 272528 ms </td>
+         </tr>
+      </table>
+
+- Marching cube results
    <table>
       <tr>
-         <td> NUM VOXEL </td>
-         <td> 400 </td>
-         <td> 200 </td>
-         <td> 100 </td>
-         <td> 50 </td>
-         <td> 30 </td>
-         <td> 10 </td>
+         <td> ISOVALUE </td>
+         <td> -0.5 </td>
+      </tr> 
+      <tr>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere_density_minus_0.5.png" alt="">
+         </figure> 
+      </td>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere_density_minus_0.5_2.png" alt="">
+         </figure> 
+      </td>
+      </tr> 
+      <tr>
+         <td> ISOVALUE </td>
+         <td> 0.5 </td>
+      </tr> 
+      <tr>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere_density_0.5.png" alt="">
+         </figure> 
+      </td>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere_density_0.5_2.png" alt="">
+         </figure> 
+      </td>
+      </tr> 
+      <tr>
+         <td> ISOVALUE </td>
+         <td> 1 </td>
+      </tr> 
+      <tr>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere_density_1.png" alt="">
+         </figure> 
+      </td>
+      <td>
+         <figure class="align-center">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/sphere_density_1_2.png" alt="">
+         </figure> 
+      </td>
+      </tr> 
+   </table>
+
+- Time Consumption of Random Grid Generation results (assume: `isovalue 0.5`)
+   <table>
+      <tr>
+         <td> Density </td>
+         <td> 1 </td>
+         <td> random </td>
+         <td> -1 </td>
+      </tr> 
+      <tr>
+         <td> # of voxel </td>
+         <td> 125000 </td>
+         <td> 125000 </td>
+         <td> 125000 </td>
       </tr> 
       <tr>
          <td> # of triangles </td>
-         <td> Killed </td>
-         <td> 19792328 </td>
-         <td> 2551595 </td>
-         <td> 328144 </td>
-         <td> 74192 </td>
-         <td> 3706 </td>
+         <td> 36064 </td>
+         <td> 321827 </td>
+         <td> 17368 </td>
       </tr>
       <tr>
-         <td> Pointcloud Gen time (ms) </td>
-         <td> Killed </td>
-         <td> 2322.73 ms </td>
-         <td> 2213.96 ms </td>
-         <td> 2174.02 ms </td>
-         <td> 2208.76 ms </td>
-         <td> 2205.52 ms </td>
+         <td> Pointcloud read time (ms) </td>
+         <td> 11.6072 </td>
+         <td> 11.9498 </td>
+         <td> 13.745 </td>
       </tr>
       <tr>
          <td> Voxel calculation (ms) </td>
-         <td> Killed </td>
-         <td> 0.020379 ms </td>
-         <td> 0.065181 ms </td>
-         <td> 0.057287 ms </td>
-         <td> 0.019254 ms </td>
-         <td> 0.019293 ms </td>
+         <td> 5.21115 </td>
+         <td> 4.86867 </td>
+         <td> 6.08164 </td>
       </tr>
       <tr>
-         <td> Marching Cubes (ms) </td>
-         <td> Killed </td>
-         <td> 337166 ms </td>
-         <td> 42207.1 ms </td>
-         <td> 4606.99 ms </td>
-         <td> 1029.29 ms </td>
-         <td> 53.8006 ms </td>
+         <td> Marching Cubes (s) </td>
+         <td> 667.486 </td>
+         <td> 701.606 </td>
+         <td> 732.627 </td>
       </tr>
    </table>
 
 - Marching cube results
-
+   <table>
+      <tr>
+         <td> Density </td>
+         <td> Results </td>
+      </tr> 
+      <tr>
+         <td> 1 </td>
+         <td>
+            <figure class="align-center">
+               <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/random_grid_density_1.png" alt="">
+            </figure> 
+         </td>
+      </tr> 
+      <tr>
+         <td> random </td>
+         <td>
+            <figure class="align-center">
+               <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/random_grid_density_random.png" alt="">
+            </figure> 
+         </td>
+      </tr>   
+      <tr>
+         <td> -1 </td>
+         <td>
+            <figure class="align-center">
+               <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_cubes/random_grid_density_minus_1.png" alt="">
+            </figure> 
+         </td>
+      </tr>
+   </table>
 
 ## 7. References
 [1] [https://github.com/nihaljn/marching-cubes](https://github.com/nihaljn/marching-cubes) \
