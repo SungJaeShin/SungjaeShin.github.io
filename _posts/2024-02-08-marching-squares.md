@@ -94,6 +94,41 @@ Clone the repository and build and run simultaneously:
     {1, 0, 1, 0} <-----> {1, 1, 1, 1} = 16
 ```
 
+  <table>
+      <tr>
+         <td> Case 1 : Not Make Any Line </td>
+         <td> 
+         <figure class="align-center">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_squares/not_draw.jpg" alt="">
+         </figure> 
+         </td>
+      </tr>
+      <tr>
+         <td> Case 2 : Make Horizontal & Vertical Line </td>
+         <td> 
+         <figure class="align-center">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_squares/horizontal_vertical_line.jpg" alt="">
+         </figure> 
+         </td>
+      </tr>
+      <tr> 
+         <td> Case 3 : Make One Diagonal Line </td>
+         <td> 
+         <figure class="align-center">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_squares/one_diagonal_line.jpg" alt="">
+         </figure> 
+         </td>
+      </tr>
+      <tr>
+         <td> Case 4 : Make Two Diagonal Line  </td>
+         <td>
+         <figure class="align-center">
+          <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marching_squares/two_diagonal_lines.jpg" alt="">
+         </figure> 
+         </td>
+      </tr>
+  </table>
+
 ## 5. Results 
 <table>
     <tr>
